@@ -1,0 +1,101 @@
+*{
+
+margin: 0%;
+padding: 0%;
+
+}
+html{
+
+    scroll-behavior: smooth;
+    scroll-snap-type:  y mandatory;
+    
+    }
+.banner-image{
+
+background-image: url(images/Wall_Connector_banner_web.avif);
+background-size: cover;
+background-repeat: no-repeat;
+scroll-snap-align: start;
+
+}
+
+#img1{
+    height:20px;
+    width: 150px;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+#main1{
+
+    height: 700px;
+ }  
+
+  #li1{
+
+   list-style: none; 
+   color: antiquewhite;  
+}
+#a1{     
+ margin-left: 250px;
+            
+ }
+ h1{
+color: white;
+margin-top: 270px;
+font-weight: 600;
+
+ }
+ h4{
+color: white;
+font-weight: 600;
+
+ }
+ button{
+
+width: 260px;
+height: 35px;
+font-weight: 500;
+border: none;
+ }
+ #main2{
+
+height:600px;
+
+ }
+
+#img3{
+
+    background-image: url(images/MS_web.avif);
+}
+#main3{
+
+height: 600px;
+}
+#img4{
+    background-image: url(images/model\ 3.avif);
+}
+#main4{
+
+    height: 600px;
+
+}
+#img5{
+    background-image: url(images/model\ x.avif);
+}
+#main5{
+
+    height: 600px;
+
+}
+#img6{
+    background-image: url(images/Charging.avif);
+}
+#main6{
+
+    height: 500px;
+
+}
+#img7{
+    background-image: url(images/lifestyle.avif);
+}

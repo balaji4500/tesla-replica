@@ -1,0 +1,87 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+#img1{
+    height:40px;
+    width: 110px;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+.banner-image{
+
+    background-image: url(images/wp9753267-tesla-s-2021-wallpapers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+    }
+#main1{
+
+    height: 630px;
+    
+        }
+ #li1{
+    
+    
+  list-style: none;
+ }
+  #a1{
+        
+        
+ margin-left: 250px;
+        
+        }
+        #text{
+            margin-top: 70px;
+            font-weight: 600;
+            }
+            #a3{
+           
+           color: black;
+           text-decoration: underline;
+            }
+            .row{
+               
+            margin-left: 80px;
+             margin-top: 200px;
+                       
+            }
+             .col{
+                       
+           color:white;
+            font-weight: 600;
+                       
+            }
+            #btn{
+                               
+           width: 250px;
+           background: transparent;   
+           color: antiquewhite;            
+           
+           }
+           #btn:hover{
+           
+               background-color: antiquewhite;
+               color: black;
+           }
+           h4{
+
+            font-weight: 800;
+           }
+           #main2{
+
+
+            height: 600px;
+           }
+           #img3{
+          
+          background-image: url(images/2021-tesla-model-s-plaid.jpg);   
+
+           }
+           h2{
+            color: antiquewhite;
+           }
+           p{
+            color: rgb(96, 95, 95);
+           }

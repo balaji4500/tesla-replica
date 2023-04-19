@@ -1,0 +1,99 @@
+*{
+
+
+    margin: 0%;
+    padding: 0%;
+    
+    }
+    
+    #img1{
+        height:40px;
+        width: 110px;
+        margin-left: 10px;
+        margin-top: 5px;
+    
+    }
+    
+    #main1{
+    
+    height: 870px;
+    
+    }
+    #slide{
+    
+    position: sticky;
+    
+    
+    }
+    h1{
+    font-weight: bold;
+    }
+    h5{
+    
+    font-weight: bold;
+    color: antiquewhite;
+    
+    }
+    
+    #div1
+    {
+    padding: 15px;
+        height:200px;
+    width: 300px;
+    background-color: rgb(39, 39, 39);
+    color: rgb(195, 187, 187);
+    text-align: start;
+    border-radius: 12px;
+    text-align:left;
+    
+    }
+    
+    
+    #side a{
+    
+    text-decoration: underline;
+    color: rgb(39, 38, 38);
+    
+    }
+     h4{
+    
+        font-weight: bold;
+     }
+    #h6{
+    
+    font-weight: bold;
+    font-size:15px ;
+    
+    }
+    #btn1{
+    
+    width: 370px;
+    border-color: rgb(68, 67, 67);
+    
+    }
+    #btn2{
+        border-color: rgb(57, 56, 56);
+        width: 370px;
+        
+        }
+        .carousel-inner img {       
+            display:block;
+            height: auto; 
+            max-width: 100%;
+         }
+         
+    #h6a{
+    
+        font-size:14px;
+    }
+    #btn3{
+    
+        margin-left: 105px;
+        background-color: rgb(220, 212, 212);
+        font-weight: bold;
+        height: 33px;
+        width: 180px;
+    }
+    #btn3:hover{
+    background-color: rgb(206, 201, 201);
+    }

@@ -1,0 +1,79 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    
+    }
+    #img1{
+        height:40px;
+        width: 110px;
+        margin-left: 10px;
+        margin-top: 5px;
+    
+    }
+    
+    .banner-image{
+    
+        background-image: url(images/Solar-Roof-Hero-Desktop-Global.webp);
+        background-size: cover;
+        background-repeat: no-repeat;    
+        }
+        section{
+    
+    height: 500px;
+    
+        }
+        #li1{
+    
+    
+            list-style: none;
+        }
+        #a1{
+        
+        
+        margin-left: 250px;
+        
+        
+        }
+        h1{
+    
+    font-weight: bold;
+    color: white;
+    
+        }
+        h6{
+color: white;
+
+
+        }
+        .row{
+    
+    margin-left: 80px;
+    margin-top: 170px;
+    
+        }
+        .col{
+    
+    color:white;
+    font-weight: 600;
+    
+        }
+        button{
+    
+    background-color: transparent ;
+    width: 150px;
+    color: antiquewhite;
+    
+        }
+    
+    i{
+    color: antiquewhite;
+    margin-left: 40px;
+    
+    
+    }
+    #li1{
+
+color: white;
+
+    }

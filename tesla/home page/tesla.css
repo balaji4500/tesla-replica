@@ -1,0 +1,255 @@
+
+*{
+
+margin:0%;
+padding: 0%;
+
+}
+html{
+scroll-behavior: smooth;
+scroll-snap-type: y mandatory;
+
+}
+
+
+.banner-image{
+
+background-image: url(images/wp10314313-tesla-y-wallpapers.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+scroll-snap-align: start;
+
+}
+
+
+#img1{
+    height:40px;
+    width: 110px;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+#main1{
+
+height: 650px;
+}
+.container-fluid{
+    margin-top: -8px;
+    
+
+}
+#a1{
+    margin-left:  250px;
+   font-size: 14px;
+
+}
+#a1:hover{
+    
+    color:darkorange;
+    transition: 1s;
+}
+
+#a2{
+    font-size: 14px;
+
+}
+#a2:hover{
+    
+    color: darkorange;
+    transition: 1s;
+}
+
+#a3{
+    font-size: 14px;
+}
+#a3:hover{
+    
+    color: darkorange;
+    transition: 1s;
+}
+
+#a4{
+    font-size: 14px;
+}
+#a4:hover{
+    
+    color: darkorange;
+    transition: 1s;
+}
+
+#a5{
+    font-size: 14px;
+   margin-left: 4px;
+}
+#a5:hover{
+    
+    color: darkorange;
+    transition: 1s;
+}
+
+
+#a6{
+    margin-left:8px;
+    font-size: 14px;
+
+}
+#a6:hover{
+    
+    color: darkorange;
+    transition: 1s;
+}
+
+#a7{
+    font-size: 14px;
+margin-left: 260px;
+}
+
+#a7:hover{
+    
+    color: darkorange;
+    transition: 1s;
+}
+
+#a8{
+    font-size: 14px;
+margin-left: 6px;
+}
+#a8:hover{
+
+    color:darkorange;
+    transition: 1s;
+}
+
+
+#a9{
+    font-size: 14px;
+margin-left: 8px;
+
+}
+#a9:hover{
+    
+    color: darkorange;
+    transition: 1s;
+}
+
+
+
+#a10{
+
+list-style: none;
+text-decoration: underline;
+color: black;
+margin-top: 60px;
+
+}
+#a10:hover{
+
+color:darkorange;
+transition: 1s;
+
+}
+#a11{
+    list-style: none;
+    color: black;
+    margin-top: 60px;
+}
+
+
+
+
+
+#text{
+
+
+margin-top: 130px;
+font-weight: bold;
+
+}
+.container{
+
+margin-top: 270px;
+
+}
+#btn1{
+    background-color: rgb(72, 70, 70);
+    color: rgb(190, 188, 184);
+    width:250px;
+    height: 44px;
+border-radius: 8px;
+
+}
+#btn2{
+    background-color: rgb(180, 183, 186);
+    color: rgb(47, 46, 46);
+    margin-left: 5px;
+    width:250px;
+    height: 44px;
+    border-radius: 8px;
+
+}
+
+
+#main2{
+
+height: 750px;
+}
+
+#img2{
+    background-image: url(images/wp4318717-tesla-model-3-wallpapers\(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#img3{
+
+background-image: url(images/wp9753267-tesla-s-2021-wallpapers.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+#main3{
+    height: 750px;
+}
+#main4{
+    height: 650px;
+}
+#img4{
+
+    background-image: url(images/Homepage-Model-X-Desktop-LHD.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#main5{
+    height: 650px;
+}
+#img5{
+
+    background-image: url(images/_25-HP-SolarPanels-D.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#main6{
+
+height: 650px;
+
+}
+#img6{
+
+    background-image: url(images/Solar-Roof-Design-Desktop-Global.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#main7{
+    height: 650px;
+}
+#img7{
+
+    background-image: url(images/acc.avif);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#btn3{
+    background-color: black;
+    color: antiquewhite;
+    width: 250px;
+    height:44px;
+}

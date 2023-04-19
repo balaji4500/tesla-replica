@@ -1,0 +1,83 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+#img1{
+    height:40px;
+    width: 110px;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+.banner-image{
+
+    background-image: url(images/Model-Y-Main-Hero-Desktop-EMEA-LHD.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+    }
+#main1{
+
+    height: 500px;
+    
+        }
+ #li1{
+    
+    
+  list-style: none;
+ }
+  #a1{
+        
+        
+ margin-left: 250px;
+        
+        }
+  #text{
+ margin-top: 80px;
+ }
+ #a3{
+
+color: black;
+text-decoration: underline;
+ }
+ .row{
+    
+ margin-left: 80px;
+  margin-top: 200px;
+            
+ }
+  .col{
+            
+color:white;
+ font-weight: 600;
+            
+ }
+ button{
+                    
+width: 250px;
+background: transparent;   
+color: antiquewhite;            
+
+}
+button:hover{
+
+    background-color: antiquewhite;
+    color: black;
+}
+#main2{
+height: 500px;
+
+}
+#img3{
+
+width: 800px;
+
+}
+h6{
+font-weight: 600;
+
+}
+#btn1{
+    width: 250px;
+    color: black;
+}

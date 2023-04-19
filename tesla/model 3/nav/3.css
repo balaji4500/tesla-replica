@@ -1,0 +1,97 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+#img1{
+    height:10px;
+    width: 80px;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+.banner-image{
+
+    background-image: url(images/Model-3-Main-Hero-Desktop-LHD.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+    }
+#main1{
+
+    height: 630px;
+    
+        }
+ #li1{
+    color: antiquewhite;
+    
+  list-style: none;
+ }
+  #a1{
+        
+        
+ margin-left: 250px;
+        
+        }
+        #text{
+            margin-top: 70px;
+            font-weight: 600;
+            color: antiquewhite;
+            }
+            #a3{
+           
+           color:white;
+           text-decoration: underline;
+            }
+            .row{
+               
+            margin-left: 80px;
+             margin-top: 200px;
+                       
+            }
+             .col{
+                       
+           color:antiquewhite;
+            font-weight: 600;
+                       
+            }
+            #btn{
+                               
+           width: 250px;
+           background: transparent;   
+           color:antiquewhite;            
+           
+           }
+           #btn:hover{
+           
+               background-color: antiquewhite;
+               color: black;
+           }
+           h4{
+
+            font-weight: 800;
+           }
+           #main2{
+            height: 600px;
+           }
+
+       #img3{
+        background-image: url(images/00wMmc7bg7uonvGJnqsoQFF-1..v1620660421.jpg);
+        }
+          
+          
+           h2{
+            color: antiquewhite;
+           }
+           #h2{
+            color: black;
+           }
+         h6{
+
+font-weight: bold;
+
+         }
+         #btn1{
+
+            width: 250px;
+            
+         }
